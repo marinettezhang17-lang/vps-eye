@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bak-*
+token
+*.env
+audit.log
